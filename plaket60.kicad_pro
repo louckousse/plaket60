@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": true,
         "pads": {
-          "drill": 1.0,
-          "height": 2.0,
-          "width": 2.0
+          "drill": 1.524,
+          "height": 2.6,
+          "width": 2.6
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -349,7 +349,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "plain60-flex-edition.kicad_pro",
+    "filename": "plaket60.kicad_pro",
     "version": 1
   },
   "net_settings": {
