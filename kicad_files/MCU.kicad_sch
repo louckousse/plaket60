@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "SST60 - Multi-layout 60% pcb")
+    (title "Plaket60-OG")
     (date "2022-07-25")
     (rev "1.0")
   )
