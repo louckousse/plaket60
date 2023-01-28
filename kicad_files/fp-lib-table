@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "parts")(type "KiCad")(uri "/home/louckousse/Prog/keebs/pcb/plaket60/kicad-parts/parts.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "/home/louckousse/Prog/keebs/pcb/plaket60/random-keyboard-parts.pretty")(options "")(descr ""))
+)
