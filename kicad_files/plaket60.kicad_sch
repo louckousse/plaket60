@@ -1123,7 +1123,7 @@
     (property "Value" "SM04B" (id 1) (at 171.45 25.3999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (id 2) (at 170.18 22.86 0)
+    (property "Footprint" "Connector_Molex:Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical" (id 2) (at 170.18 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 170.18 22.86 0)
@@ -1641,7 +1641,7 @@
       (reference "H1") (unit 1) (value "PCB Outline") (footprint "Components:L60 Outline")
     )
     (path "/b680838b-e6a0-4be0-8ee0-3b59a4379f08"
-      (reference "J1") (unit 1) (value "SM04B") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+      (reference "J1") (unit 1) (value "SM04B") (footprint "Connector_Molex:Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical")
     )
     (path "/43439a45-122d-4862-9414-61a9fa8204f1"
       (reference "J2") (unit 1) (value "SWD") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
