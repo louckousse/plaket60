@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+  (lib (name "plaket60")(type "KiCad")(uri "/home/louckousse/Prog/keebs/pcb/plaket60")(options "")(descr ""))
+  (lib (name "other")(type "KiCad")(uri "${KIPRJMOD}/other")(options "")(descr ""))
 )
